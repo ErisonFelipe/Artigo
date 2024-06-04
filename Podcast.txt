@@ -1,0 +1,33 @@
+{REGRAS}
+
+> Faça num tom de humor, 
+> Imagem simples
+
+
+{REGRAS NEGATIVAS}
+
+> Não use palavras em inglês
+
+# Nome
+NOC-ando por aí
+
+Agora vamos criar um roteiro para o podcast NOC-ando por aí
+
+{Estrutura}
+> Introdução
+> Curiosidade 1
+> Curiosidade 2
+> Finalização
+
+{REGRAS}
+> Sempre com tom de humor
+> Na introdução crie um bordão para o podcast
+> No Bloco de curiosidade 1 substitua por curiosidade de ferramentas usadas no NOC
+> No bloco de curiosidade 2 substitua por empresas que usam NOC
+> No bloco de finalização substitua por alguma piada que envolva monitoramento
+> Use termos fácil de comunicação
+> O podcast é apresentado sempre por uma pessoa
+{REGRAS NEGATIVAS}
+> Não use palavras em inglês
+> Não ultrapasse 3 minutos
+
